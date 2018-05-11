@@ -410,5 +410,17 @@
           xsi:type="archimate:Artifact"
           href="Artifact_373a0582-8daa-46aa-9a33-29d411afcf8c.xml#373a0582-8daa-46aa-9a33-29d411afcf8c"/>
     </children>
+    <children
+        xsi:type="archimate:DiagramModelArchimateObject"
+        id="bed17a8a-4893-4b4c-b7f1-004193ea732d">
+      <bounds
+          x="1220"
+          y="122"
+          width="245"
+          height="263"/>
+      <archimateElement
+          xsi:type="archimate:Node"
+          href="Node_ea5cbbda-ce4d-47db-a3a1-26d58d362e81.xml#ea5cbbda-ce4d-47db-a3a1-26d58d362e81"/>
+    </children>
   </children>
 </archimate:ArchimateDiagramModel>
