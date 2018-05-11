@@ -334,21 +334,21 @@
       </sourceConnections>
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
-          id="9a6022b2-efa9-4141-84b7-e334a1125c2f"
-          source="1441c996-b84b-456c-b1ef-2bb0fc695453"
-          target="4e358940-6e7e-4990-9409-358995707deb">
-        <archimateRelationship
-            xsi:type="archimate:RealizationRelationship"
-            href="RealizationRelationship_c029c162-8aa7-4b49-b094-7c73e70b4220.xml#c029c162-8aa7-4b49-b094-7c73e70b4220"/>
-      </sourceConnections>
-      <sourceConnections
-          xsi:type="archimate:DiagramModelArchimateConnection"
           id="f56bed4b-f2f6-4efd-b584-80e5073c985b"
           source="1441c996-b84b-456c-b1ef-2bb0fc695453"
           target="3de3a91c-0320-449b-b5ba-866641c488d8">
         <archimateRelationship
             xsi:type="archimate:CompositionRelationship"
             href="CompositionRelationship_ec480290-95e1-4c50-8b81-8ce117bdd49a.xml#ec480290-95e1-4c50-8b81-8ce117bdd49a"/>
+      </sourceConnections>
+      <sourceConnections
+          xsi:type="archimate:DiagramModelArchimateConnection"
+          id="e9808178-69aa-437f-915a-9c9d52b601a8"
+          source="1441c996-b84b-456c-b1ef-2bb0fc695453"
+          target="5511dc2e-e1fe-490e-bd41-d58ed715a6cd">
+        <archimateRelationship
+            xsi:type="archimate:CompositionRelationship"
+            href="CompositionRelationship_bbbe1f73-d924-4965-9982-eb75eec9d9bd.xml#bbbe1f73-d924-4965-9982-eb75eec9d9bd"/>
       </sourceConnections>
       <bounds
           x="516"
@@ -380,19 +380,6 @@
         <archimateElement
             xsi:type="archimate:BusinessObject"
             href="BusinessObject_2189e20f-0269-4a25-be6e-8178ffc1f5f9.xml#2189e20f-0269-4a25-be6e-8178ffc1f5f9"/>
-      </children>
-      <children
-          xsi:type="archimate:DiagramModelArchimateObject"
-          id="4e358940-6e7e-4990-9409-358995707deb"
-          targetConnections="9a6022b2-efa9-4141-84b7-e334a1125c2f">
-        <bounds
-            x="312"
-            y="36"
-            width="120"
-            height="55"/>
-        <archimateElement
-            xsi:type="archimate:BusinessRole"
-            href="BusinessRole_120dc620-82af-4540-a13c-2bc9d4c8758a.xml#120dc620-82af-4540-a13c-2bc9d4c8758a"/>
       </children>
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
@@ -446,6 +433,19 @@
         <archimateElement
             xsi:type="archimate:BusinessService"
             href="BusinessService_fe5aeb9d-16f2-4ff3-ae73-077d2345b152.xml#fe5aeb9d-16f2-4ff3-ae73-077d2345b152"/>
+      </children>
+      <children
+          xsi:type="archimate:DiagramModelArchimateObject"
+          id="5511dc2e-e1fe-490e-bd41-d58ed715a6cd"
+          targetConnections="e9808178-69aa-437f-915a-9c9d52b601a8">
+        <bounds
+            x="312"
+            y="36"
+            width="120"
+            height="55"/>
+        <archimateElement
+            xsi:type="archimate:BusinessService"
+            href="BusinessService_c7f2a24c-bb95-43ce-80d7-97311ad9b4cd.xml#c7f2a24c-bb95-43ce-80d7-97311ad9b4cd"/>
       </children>
       <archimateElement
           xsi:type="archimate:Product"
