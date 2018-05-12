@@ -3,7 +3,6 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="6_Infrastucture layer TO_BE"
     id="e79e286f-a49b-4fac-a9c4-8865dc33d75a"
-    connectionRouterType="2"
     viewpoint="technology_usage">
   <children
       xsi:type="archimate:DiagramModelGroup"
@@ -108,6 +107,14 @@
           id="448f93f2-1f2b-405b-bdc2-0b609ffebe23"
           source="534cc120-b73c-476a-a2b7-b3f8adf66e00"
           target="e2114ffd-82e9-46bc-95dc-91ebf2dd3363">
+        <bendpoints
+            startY="81"
+            endX="132"
+            endY="-63"/>
+        <bendpoints
+            startX="-132"
+            startY="81"
+            endY="-63"/>
         <archimateRelationship
             xsi:type="archimate:AccessRelationship"
             href="AccessRelationship_8c3ddabf-1acf-4c2c-b02b-59f19413bdcf.xml#8c3ddabf-1acf-4c2c-b02b-59f19413bdcf"/>
