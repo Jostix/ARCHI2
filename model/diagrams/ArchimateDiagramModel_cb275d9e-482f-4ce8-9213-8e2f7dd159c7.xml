@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Application layer AS_IS"
-    id="cb275d9e-482f-4ce8-9213-8e2f7dd159c7">
+    name="3_Application layer AS_IS"
+    id="cb275d9e-482f-4ce8-9213-8e2f7dd159c7"
+    viewpoint="application_usage">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="b24894f6-5bec-42b3-a1ea-9e0375000ef9"

@@ -1,8 +1,9 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Business layer TO_BE"
-    id="e9e738c1-6d91-466e-ac87-679669d7b232">
+    name="2_Business layer TO_BE"
+    id="e9e738c1-6d91-466e-ac87-679669d7b232"
+    viewpoint="business_process_cooperation">
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="704eef89-f056-4bb2-b0a8-66a44480952e"
