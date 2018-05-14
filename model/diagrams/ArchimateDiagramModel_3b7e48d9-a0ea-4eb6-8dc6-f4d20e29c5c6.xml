@@ -2346,7 +2346,8 @@
       <children
           xsi:type="archimate:DiagramModelArchimateObject"
           id="350d2426-3bcc-4f3a-99af-831e713d170b"
-          targetConnections="dd8b97ea-3dc2-446f-8e62-47079edc8a57 34677a94-81e0-4bd2-bf7c-9189f4ec5880">
+          targetConnections="dd8b97ea-3dc2-446f-8e62-47079edc8a57 34677a94-81e0-4bd2-bf7c-9189f4ec5880"
+          fillColor="#0080ff">
         <sourceConnections
             xsi:type="archimate:DiagramModelArchimateConnection"
             id="b5f16fc5-41d3-4c16-ba4d-5709d84e0f5f"
@@ -2400,7 +2401,9 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="6132e17a-38ea-4cad-a9b1-c9f9c9bf23b6"
-            targetConnections="b5f16fc5-41d3-4c16-ba4d-5709d84e0f5f">
+            targetConnections="b5f16fc5-41d3-4c16-ba4d-5709d84e0f5f"
+            fontColor="#ffffff"
+            fillColor="#0080ff">
           <bounds
               x="12"
               y="48"
@@ -2413,7 +2416,9 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="da590347-f0d3-4466-b2e3-efc19958ca17"
-            targetConnections="f751604c-f12f-494e-bf83-2b125a69be2c">
+            targetConnections="f751604c-f12f-494e-bf83-2b125a69be2c"
+            fontColor="#ffffff"
+            fillColor="#0080ff">
           <bounds
               x="144"
               y="48"
@@ -2426,7 +2431,9 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="c0fc2ee2-7e78-43da-91e6-f76147c09d82"
-            targetConnections="9317eb1d-a165-4597-b24b-b98e4579faf2">
+            targetConnections="9317eb1d-a165-4597-b24b-b98e4579faf2"
+            fontColor="#ffffff"
+            fillColor="#0080ff">
           <bounds
               x="12"
               y="120"
@@ -2439,7 +2446,9 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="2132ff10-a9dd-44cd-a9ba-9e6a7caa1349"
-            targetConnections="9e91088f-ab09-41f9-b5ab-5ea786e53c3c">
+            targetConnections="9e91088f-ab09-41f9-b5ab-5ea786e53c3c"
+            fontColor="#ffffff"
+            fillColor="#0080ff">
           <bounds
               x="144"
               y="120"
@@ -2452,9 +2461,11 @@
         <children
             xsi:type="archimate:DiagramModelArchimateObject"
             id="71fb8bb4-cd76-4737-914e-ba4fb9e492a2"
-            targetConnections="74d01a88-085f-43b7-86b1-eb91d62120a0">
+            targetConnections="74d01a88-085f-43b7-86b1-eb91d62120a0"
+            fontColor="#ffffff"
+            fillColor="#0080ff">
           <bounds
-              x="12"
+              x="72"
               y="204"
               width="120"
               height="55"/>
@@ -2981,9 +2992,24 @@
             endY="414"/>
         <bendpoints
             startX="339"
-            startY="-434"
-            endX="-146"
-            endY="55"/>
+            startY="-194"
+            endX="-140"
+            endY="367"/>
+        <bendpoints
+            startX="339"
+            startY="-230"
+            endX="-140"
+            endY="331"/>
+        <bendpoints
+            startX="339"
+            startY="-326"
+            endX="-140"
+            endY="235"/>
+        <bendpoints
+            startX="339"
+            startY="-518"
+            endX="-140"
+            endY="43"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_3c49d469-d902-4edb-9844-40754f249083.xml#3c49d469-d902-4edb-9844-40754f249083"/>
@@ -3054,10 +3080,10 @@
             endX="-844"
             endY="259"/>
         <bendpoints
-            startX="902"
-            startY="-183"
-            endX="-21"
-            endY="294"/>
+            startX="903"
+            startY="-170"
+            endX="-20"
+            endY="307"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_08060088-fead-4212-9f3f-07886acbb17e.xml#08060088-fead-4212-9f3f-07886acbb17e"/>
